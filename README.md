@@ -1,6 +1,6 @@
 <div align="center">
 
-✨ **Hi, I'm Yuxuan Liu** ✨
+# ✨ Hi, I'm Yuxuan Liu · 刘宇轩 ✨
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=C0392B&center=true&vCenter=true&multiline=true&width=560&height=60&lines=Graph-Enhanced+RAG+%26+KG+Quality;Multimodal+Understanding+%26+LLM+Agents)](https://git.io/typing-svg)
 
