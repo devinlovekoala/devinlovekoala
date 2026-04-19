@@ -1,16 +1,14 @@
 <div align="center">
 
-# Hi, I'm Yuxuan Liu 👋
+✨ **Hi, I'm Yuxuan Liu** ✨
 
-**Undergraduate @ [BUPT](https://www.bupt.edu.cn/) · Telecommunications Engineering**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=C0392B&center=true&vCenter=true&multiline=true&width=560&height=60&lines=Graph-Enhanced+RAG+%26+KG+Quality;Multimodal+Understanding+%26+LLM+Agents)](https://git.io/typing-svg)
 
-[![Personal Site](https://img.shields.io/badge/🌐_Website-devinlovekoala.github.io-1B3A5C?style=flat-square)](https://devinlovekoala.github.io)
-[![Email](https://img.shields.io/badge/📧_Email-liuyuxuanlovept@bupt.edu.cn-1B3A5C?style=flat-square)](mailto:liuyuxuanlovept@bupt.edu.cn)
-[![Demo](https://img.shields.io/badge/🚀_Live_Demo-drawsee.cn-2E6DA4?style=flat-square)](http://drawsee.cn)
+📍 Beijing, China &nbsp;|&nbsp; 🎓 BUPT (Telecom Engineering)
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=2E6DA4&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Graph-Enhanced+RAG+%26+Knowledge+Graph+Quality;Multimodal+Document+Understanding+%26+LLM+Agents)](https://git.io/typing-svg)
+[![Website](https://img.shields.io/badge/WEBSITE-devinlovekoala.github.io-1B3A5C?style=for-the-badge&logo=github)](https://devinlovekoala.github.io)
+&nbsp;
+[![Demo](https://img.shields.io/badge/LIVE_DEMO-drawsee.cn-C0392B?style=for-the-badge)](http://drawsee.cn)
 
 </div>
 
@@ -44,22 +42,18 @@ My ongoing work extends open-source projects from [HKUDS Data Intelligence Lab](
 
 ## Research Focus
 
-![RAG](https://img.shields.io/badge/Graph--Enhanced_RAG-1B3A5C?style=for-the-badge)
-![KG Quality](https://img.shields.io/badge/Knowledge_Graph_Quality-1B3A5C?style=for-the-badge)
-![Multimodal](https://img.shields.io/badge/Multimodal_Document_Understanding-2E6DA4?style=for-the-badge)
-![LLM Agents](https://img.shields.io/badge/LLM_Agents-2E6DA4?style=for-the-badge)
-![Graph Learning](https://img.shields.io/badge/Graph_Foundation_Models-4A7BA8?style=for-the-badge)
+![RAG](https://img.shields.io/badge/Graph--Enhanced_RAG-1B3A5C?style=for-the-badge&labelColor=1B3A5C) ![KG](https://img.shields.io/badge/Knowledge_Graph_Quality-1B3A5C?style=for-the-badge&labelColor=1B3A5C) ![Multimodal](https://img.shields.io/badge/Multimodal_Understanding-3C3489?style=for-the-badge&labelColor=3C3489) ![Agents](https://img.shields.io/badge/LLM_Agents-085041?style=for-the-badge&labelColor=085041) ![GFM](https://img.shields.io/badge/Graph_Foundation_Models-712B13?style=for-the-badge&labelColor=712B13)
 
 ## Tech Stack
 
 **RAG & Knowledge Graphs**
 
-![LightRAG](https://img.shields.io/badge/LightRAG-E8F0F8?style=flat-square&logoColor=1B3A5C&color=1B3A5C)
-![RAG--Anything](https://img.shields.io/badge/RAG--Anything-1B3A5C?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-013243?style=flat-square&logo=python&logoColor=white)
+![LightRAG](https://img.shields.io/badge/LightRAG-1B3A5C?style=flat-square&logoColor=white)
+![RAG-Anything](https://img.shields.io/badge/RAG--Anything-1B3A5C?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2C5F2E?style=flat-square&logo=langchain&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-4D1F7C?style=flat-square&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-2C5F8A?style=flat-square&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-1A5276?style=flat-square&logoColor=white)
 
 **LLM & Multimodal**
 
@@ -67,14 +61,15 @@ My ongoing work extends open-source projects from [HKUDS Data Intelligence Lab](
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 **Engineering**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
