@@ -6,7 +6,7 @@
 
 📍 Beijing, China &nbsp;|&nbsp; 🎓 BUPT (Telecom Engineering)
 
-[![Website](https://img.shields.io/badge/WEBSITE-devinlovekoala.github.io-1B3A5C?style=for-the-badge&logo=github)](https://devinlovekoala.github.io)
+[![Website](https://img.shields.io/badge/HOMEPAGE-devinlovekoala.github.io-1B3A5C?style=for-the-badge&logo=github)](https://devinlovekoala.github.io)
 &nbsp;
 [![Demo](https://img.shields.io/badge/LIVE_DEMO-drawsee.cn-C0392B?style=for-the-badge)](http://drawsee.cn)
 
