@@ -41,19 +41,24 @@ My ongoing work extends open-source projects from [HKUDS Data Intelligence Lab](
 ---
 
 ## Research Focus
+![GraphRAG](https://img.shields.io/badge/GraphRAG-1F3A5F?style=for-the-badge&labelColor=1F3A5F)
+![Multimodal](https://img.shields.io/badge/Multimodal_RAG-3C3489?style=for-the-badge&labelColor=3C3489)
+![Agents](https://img.shields.io/badge/LLM_Agents-0B6E4F?style=for-the-badge&labelColor=0B6E4F)
 
-![RAG](https://img.shields.io/badge/Graph--Enhanced_RAG-1B3A5C?style=for-the-badge&labelColor=1B3A5C) ![KG](https://img.shields.io/badge/Knowledge_Graph_Quality-1B3A5C?style=for-the-badge&labelColor=1B3A5C) ![Multimodal](https://img.shields.io/badge/Multimodal_Understanding-3C3489?style=for-the-badge&labelColor=3C3489) ![Agents](https://img.shields.io/badge/LLM_Agents-085041?style=for-the-badge&labelColor=085041) ![GFM](https://img.shields.io/badge/Graph_Foundation_Models-712B13?style=for-the-badge&labelColor=712B13)
+![MultiAgent](https://img.shields.io/badge/Multi--Agent_Systems-0B6E4F?style=for-the-badge&labelColor=0B6E4F)
+![Preprocessing](https://img.shields.io/badge/Modality_Preprocessing-1F3A5F?style=for-the-badge&labelColor=1F3A5F)
+
 
 ## Tech Stack
 
 **RAG & Knowledge Graphs**
 
-![LightRAG](https://img.shields.io/badge/LightRAG-1B3A5C?style=flat-square&logoColor=white)
-![RAG-Anything](https://img.shields.io/badge/RAG--Anything-1B3A5C?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-2C5F2E?style=flat-square&logo=langchain&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-4D1F7C?style=flat-square&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-2C5F8A?style=flat-square&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-1A5276?style=flat-square&logoColor=white)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-2F3E46?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-52796F?style=flat-square&logo=langchain&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-52796F?style=flat-square&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-52796F?style=flat-square&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-52796F?style=flat-square&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-6D597A?style=flat-square&logo=neo4j&logoColor=white)
 
 **LLM & Multimodal**
 
