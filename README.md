@@ -16,9 +16,12 @@
 
 ## About
 
-I build research-grade RAG systems and study the failure modes that production pipelines tend to paper over — graph noise from LLM entity extraction, structural information loss in multimodal document ingestion, and the gap between answer-level evaluation and what actually goes wrong inside the retrieval graph.
+My main project during my undergraduate period is **[ZhaoXi · Drawsee](http://drawsee.cn)** — a full-stack AI platform for electronics education I have been leading since 2024, integrating an end-to-end RAG pipeline, LLM-based multi-turn agents, circuit structure recovery from multimodal documents, and a real-time streaming task framework. It now serves numerous teachers and students engaging in electronic circuit courses at BUPT and is recognized as a National-Level Innovation & Entrepreneurship project.
 
-My ongoing work extends open-source projects from [HKUDS Data Intelligence Lab](https://github.com/HKUDS), grounded in problems I first encountered building [ZhaoXi](http://drawsee.cn), a deployed AI platform for electronics education.
+Building ZhaoXi taught me where production RAG systems actually fail: LLM-driven entity extraction silently introduces noise into knowledge graphs, and multimodal document processing loses critical circuit structure when it treats schematics as images to caption rather than graphs to parse. These two problems led me to fork and extend two open-source projects from [HKUDS Data Intelligence Lab](https://github.com/HKUDS):
+
+- **[NoiseFilter-RAG](https://github.com/devinlovekoala/NoiseFilter-RAG)** — built on LightRAG, adds confidence scoring and noise-aware retrieval to diagnose and filter graph-level extraction noise. Stage 1: strict precision 0.15 → **0.22**, pairwise win rate 0.4385 → **0.4615**.
+- **[CircuitModalProcessor](https://github.com/devinlovekoala/RAG-Anything)** — built on RAG-Anything, converts circuit schematics into first-class KG entities via VLM + netlist parsing instead of caption-only injection. Phase 1: circuit-focused QA **8/8** vs **3/8** baseline.
 
 ---
 
